@@ -1,6 +1,6 @@
 # 📱 iOS Bootcamp Progression
 
-This repository serves as an index for the foundational projects I built leading up to my capstone College Football Analytics application. These projects track my progression in learning Swift, SwiftUI, state management, and UI design.
+These projects track my progression in learning Swift, SwiftUI, state management, and UI design.
 
 ### The Projects
 
